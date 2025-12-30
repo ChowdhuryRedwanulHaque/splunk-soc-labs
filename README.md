@@ -1,11 +1,42 @@
-# splunk-soc-labs
-My SOC labs using Splunk - log ingestion &amp; analysis
+# Splunk-SOC-Labs
 
-This repository documents my Beginner Level to Advanced Level SOC labs using Splunk.
-The focus is on learning SIEM basics, log ingestion, and understanding log data.
+Hands-on SOC labs demonstrating SIEM workflows using Splunk.
 
-## Day 01
-- Installed Splunk Enterprise
-- Accessed Search & Reporting app
-- Added system logs using Monitor Data
-- Verified ingestion using basic searches
+This repository maps directly to the following SOC skills:
+- SIEM log analysis
+- Alert triage and threat investigation
+- Incident response aligned with the NIST framework
+
+All work is performed inside Splunk using SPL, alerts, timelines, and event analysis.
+
+---
+
+## Labs Overview
+
+### 1. SIEM Log Analysis
+Analyzed ingested logs using SPL to understand event flow, sources, and anomalies.
+
+📁 01-siem-log-analysis
+
+---
+
+### 2. Alert Triage & Threat Investigation
+Built and validated alerts to detect brute-force and suspicious activity using SPL, timelines, and alert event review.
+
+📁 02-alert-triage-and-investigation
+
+---
+
+### 3. Incident Response (NIST Framework)
+Mapped detection and alert workflows to NIST incident response phases using Splunk-based investigation.
+
+📁 03-incident-response-nist
+
+---
+
+## Tools
+- Splunk Enterprise
+- SPL (Search Processing Language)
+
+## Role Alignment
+SOC Analyst | SIEM | Incident Response
