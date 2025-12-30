@@ -20,10 +20,10 @@ Analyzed ingested logs using SPL to understand event flow, sources, and anomalie
 
 ---
 
-### 2. Alert Triage & Threat Investigation
+### 2. Bruteforce-Phishing-Malware
 Built and validated alerts to detect brute-force and suspicious activity using SPL, timelines, and alert event review.
 
-📁 02-alert-triage-and-investigation
+📁 02-bruteforce-phishing-malware
 
 ---
 
