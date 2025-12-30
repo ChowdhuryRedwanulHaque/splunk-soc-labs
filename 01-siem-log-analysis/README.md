@@ -1,5 +1,3 @@
-01-siem-log-analysis/README.md
-
 # SIEM Log Analysis – Splunk Blue Team Lab
 
 This lab demonstrates SIEM log analysis and security event investigation using Splunk. The focus of this exercise is to identify abnormal activity patterns across authentication logs, system events, and application logs, then aggregate results using SPL queries for threat detection and triage.
