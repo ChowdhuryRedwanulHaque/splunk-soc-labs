@@ -23,8 +23,8 @@ Examples include:
 (See `/documents` for PDF query reports)
 
 ## Evidence Included
-- 📂 `/screenshots` – Result views from Splunk searches  
-- 📂 `/documents` – PDF versions of investigation queries and findings  
+- `/screenshots` – Result views from Splunk searches  
+- `/documents` – PDF versions of investigation queries and findings  
 
 ## Learning Outcome
 This lab strengthened my ability to:
