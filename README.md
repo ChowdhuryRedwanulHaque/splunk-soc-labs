@@ -16,21 +16,21 @@ All work is performed inside Splunk using SPL, alerts, timelines, and event anal
 ### 1. SIEM Log Analysis
 Analyzed ingested logs using SPL to understand event flow, sources, and anomalies.
 
-📁 01-siem-log-analysis
+01-siem-log-analysis
 
 ---
 
 ### 2. Bruteforce-Phishing-Malware
 Built and validated alerts to detect brute-force and suspicious activity using SPL, timelines, and alert event review.
 
-📁 02-bruteforce-phishing-malware
+02-bruteforce-phishing-malware
 
 ---
 
 ### 3. Incident Response (NIST Framework)
 Mapped detection and alert workflows to NIST incident response phases using Splunk-based investigation.
 
-📁 03-incident-response-nist
+03-incident-response-nist
 
 ---
 
