@@ -3,9 +3,9 @@
 This lab aligns with the NIST Incident Response lifecycle and demonstrates how Splunk can be used to support alert triage, investigation, and evidence collection during a security event.
 
 ## NIST Phases Covered
-- 🟡 Detection & Analysis
-- 🟢 Containment, Eradication & Recovery
-- 🔵 Post-Incident Activity (evidence & review)
+- Detection & Analysis
+- Containment, Eradication & Recovery
+- Post-Incident Activity (evidence & review)
 
 ## Objectives
 - Validate alerts using Splunk event searches
@@ -20,8 +20,8 @@ This lab aligns with the NIST Incident Response lifecycle and demonstrates how S
 - Event correlation for impact analysis
 
 ## Evidence Included
-- 📂 `/screenshots` – Investigation timeline, query results, and alert trigger views  
-- 📂 `/documents` – NIST investigation documentation and supporting material  
+- `/screenshots` – Investigation timeline, query results, and alert trigger views  
+- `/documents` – NIST investigation documentation and supporting material  
 
 ## Learning Outcome
 This lab demonstrates practical experience in:
